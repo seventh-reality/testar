@@ -58,29 +58,7 @@
 }
 
 
-/* This styles the 3D object inserted in the aside container */
 
-#aSide model-viewer {
-    height: 800px;
-    width: 500px;
-    margin:auto;
-    border: none;
-}
-#aSid {
-    height: 800px;
-    width: 500px;
-    margin:auto;
-}
-
-
-/* This styles the 3D object inserted in the aside container */
-
-#aSid model-viewer {
-    height: 800px;
-    width: 500px;
-    margin:auto;
-    border: none;
-}
 #aBLOOD {
     height: 800px;
     width: 500px;
@@ -91,96 +69,6 @@
 /* This styles the 3D object inserted in the aside container */
 
 #aBLOOD model-viewer {
-    height: 800px;
-    width: 500px;
-    margin:auto;
-    border: none;
-}
-#aCARM {
-    height: 800px;
-    width: 500px;
-    margin:auto;
-}
-
-
-/* This styles the 3D object inserted in the aside container */
-
-#aCARM model-viewer {
-    height: 800px;
-    width: 500px;
-    margin:auto;
-    border: none;
-}
-#aULTRA {
-    height: 800px;
-    width: 500px;
-    margin:auto;
-}
-
-
-/* This styles the 3D object inserted in the aside container */
-
-#aULTRA model-viewer {
-    height: 800px;
-    width: 500px;
-    margin:auto;
-    border: none;
-}
-#aMEMO {
-    height: 800px;
-    width: 500px;
-    margin:auto;
-}
-
-
-/* This styles the 3D object inserted in the aside container */
-
-#aMEMO model-viewer {
-    height: 800px;
-    width: 500px;
-    margin:auto;
-    border: none;
-}
-#aROBO {
-    height: 800px;
-    width: 500px;
-    margin:auto;
-}
-
-
-/* This styles the 3D object inserted in the aside container */
-
-#aROBO model-viewer {
-    height: 800px;
-    width: 500px;
-    margin:auto;
-    border: none;
-}
-#aRE {
-    height: 800px;
-    width: 500px;
-    margin:auto;
-}
-
-
-/* This styles the 3D object inserted in the aside container */
-
-#aRE model-viewer {
-    height: 800px;
-    width: 500px;
-    margin:auto;
-    border: none;
-}
-#aMO {
-    height: 800px;
-    width: 500px;
-    margin:auto;
-}
-
-
-/* This styles the 3D object inserted in the aside container */
-
-#aMO model-viewer {
     height: 800px;
     width: 500px;
     margin:auto;
