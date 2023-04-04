@@ -1,0 +1,188 @@
+#BROCHERi {
+    height: 51px;
+    width: 75px;
+    margin:auto;
+}
+#BROCHERy {
+    height: 51px;
+    width: 216px;
+    margin:auto;
+}
+#BROCHERt {
+    height: 51px;
+    width: 100px;
+    margin:auto;
+}
+#BROCHERr {
+    height: 51px;
+    width: 212px;
+    margin:auto;
+}
+#BROCHERe {
+    height: 51px;
+    width: 212px;
+    margin:auto;
+}
+#BROCHERw {
+    height: 51px;
+    width: 250px;
+    margin:auto;
+}
+#BROCHERq {
+    height: 51px;
+    width: 245px;
+    margin:auto;
+}
+#BROCHERu {
+    height: 51px;
+    width: 121px;
+    margin:auto;
+}
+#BROCHERv {
+    height: 51px;
+    width: 70px;
+    margin:auto;
+}
+#BROCHER {
+    height: 51px;
+    width: 250px;
+    margin:auto;
+}
+
+/* This styles the aside container */
+
+#aSide {
+    height: 800px;
+    width: 500px;
+    margin:auto;
+}
+
+
+/* This styles the 3D object inserted in the aside container */
+
+#aSide model-viewer {
+    height: 800px;
+    width: 500px;
+    margin:auto;
+    border: none;
+}
+#aSid {
+    height: 800px;
+    width: 500px;
+    margin:auto;
+}
+
+
+/* This styles the 3D object inserted in the aside container */
+
+#aSid model-viewer {
+    height: 800px;
+    width: 500px;
+    margin:auto;
+    border: none;
+}
+#aBLOOD {
+    height: 800px;
+    width: 500px;
+    margin:auto;
+}
+
+
+/* This styles the 3D object inserted in the aside container */
+
+#aBLOOD model-viewer {
+    height: 800px;
+    width: 500px;
+    margin:auto;
+    border: none;
+}
+#aCARM {
+    height: 800px;
+    width: 500px;
+    margin:auto;
+}
+
+
+/* This styles the 3D object inserted in the aside container */
+
+#aCARM model-viewer {
+    height: 800px;
+    width: 500px;
+    margin:auto;
+    border: none;
+}
+#aULTRA {
+    height: 800px;
+    width: 500px;
+    margin:auto;
+}
+
+
+/* This styles the 3D object inserted in the aside container */
+
+#aULTRA model-viewer {
+    height: 800px;
+    width: 500px;
+    margin:auto;
+    border: none;
+}
+#aMEMO {
+    height: 800px;
+    width: 500px;
+    margin:auto;
+}
+
+
+/* This styles the 3D object inserted in the aside container */
+
+#aMEMO model-viewer {
+    height: 800px;
+    width: 500px;
+    margin:auto;
+    border: none;
+}
+#aROBO {
+    height: 800px;
+    width: 500px;
+    margin:auto;
+}
+
+
+/* This styles the 3D object inserted in the aside container */
+
+#aROBO model-viewer {
+    height: 800px;
+    width: 500px;
+    margin:auto;
+    border: none;
+}
+#aRE {
+    height: 800px;
+    width: 500px;
+    margin:auto;
+}
+
+
+/* This styles the 3D object inserted in the aside container */
+
+#aRE model-viewer {
+    height: 800px;
+    width: 500px;
+    margin:auto;
+    border: none;
+}
+#aMO {
+    height: 800px;
+    width: 500px;
+    margin:auto;
+}
+
+
+/* This styles the 3D object inserted in the aside container */
+
+#aMO model-viewer {
+    height: 800px;
+    width: 500px;
+    margin:auto;
+    border: none;
+}
