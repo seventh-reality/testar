@@ -53,7 +53,7 @@
 
 #aSide {
     height: 400px;
-    width: 500px;
+    width: 250px;
     margin:auto;
 }
 
@@ -62,13 +62,13 @@
 
 #aSide model-viewer {
     height: 400px;
-    width: 500px;
+    width: 250px;
     margin:auto;
     border: none;
 }
 #aSid {
     height: 400px;
-    width: 500px;
+    width: 250px;
     margin:auto;
 }
 
@@ -77,13 +77,13 @@
 
 #aSid model-viewer {
     height: 400px;
-    width: 500px;
+    width: 250px;
     margin:auto;
     border: none;
 }
 #aBLOOD {
     height: 400px;
-    width: 500px;
+    width: 250px;
     margin:auto;
 }
 
@@ -92,13 +92,13 @@
 
 #aBLOOD model-viewer {
     height: 400px;
-    width: 500px;
+    width: 250px;
     margin:auto;
     border: none;
 }
 #aCARM {
     height: 400px;
-    width: 500px;
+    width: 250px;
     margin:auto;
 }
 
@@ -107,13 +107,13 @@
 
 #aCARM model-viewer {
     height: 400px;
-    width: 500px;
+    width: 250px;
     margin:auto;
     border: none;
 }
 #aULTRA {
     height: 400px;
-    width: 500px;
+    width: 250px;
     margin:auto;
 }
 
